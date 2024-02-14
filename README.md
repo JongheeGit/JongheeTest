@@ -1,2 +1,1 @@
-# JongheeTest
-깃허브 프로필 만들기
+![박종희 소개](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=박종희입니다&desc=음악을%20좋아합니다&descAlign=50&descAlignY=71)
